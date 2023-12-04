@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id":1,
+            "first_name": "Pablo",
+            "last_name": "Rosa",
+            "email":"PR28@gmail.com"
+        },
+        {
+            "id":2,
+            "first_name": "Rosalinda",
+            "last_name": "Carrasco",
+            "email":"RC175@gmail.com"
+        }
+    ]
+}
